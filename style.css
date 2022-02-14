@@ -24,6 +24,10 @@ a {
     font-weight: normal;
 }
 
+.header-image {
+    width: 35em;
+}
+
 a:visited {
     color: #E5E7EB
 }
@@ -84,7 +88,7 @@ h2 {
 }
 
 .pictures img {
-    height: 400px;
+    height: 500px;
     width: 400px;
 }
 
